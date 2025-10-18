@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DUSU Elections 2025: Campus or Cantt? — FastTrack</title>
+</head>
+<body>
+
+  <table width="100%" border="0" cellpadding="10" cellspacing="0" align="center">
+    <!-- Header -->
+    <tr bgcolor="#0d47a1">
+      <td colspan="2" align="center">
+        <h1 style="color:white;">FastTrack News</h1>
+        <p style="color:white;">Your fastest source for breaking headlines</p>
+        <p style="color:white;">Trusted. Timely. Transparent.</p>
+      </td>
+    </tr>
+
+    <!-- Marquee -->
+    <tr bgcolor="#1565c0">
+      <td colspan="2" align="center">
+        <marquee behavior="scroll" direction="left" style="color:white;">
+          WELCOME TO FASTTRACK — YOUR TRUSTED SOURCE FOR NEWS — STAY INFORMED —
+        </marquee>
+      </td>
+    </tr>
+
+    <!-- Navigation -->
+    <tr>
+      <td colspan="2" align="center">
+        <a href="homepage.html">Home</a> |
+        <a href="india section.html">Privacy</a> |
+        <a href="election.html">Terms Of Services</a> |
+        <a href="aboutus.html">About Us</a>
+      </td>
+    </tr>
+
+    <!-- Article Content Centered with Left Alignment -->
+    <tr>
+      <td colspan="2" align="center">
+        <table width="65%" border="0" cellpadding="10" cellspacing="0" align="center">
+          <tr>
+            <td align="left">
+              <h2>DUSU Elections 2025: Campus or Cantt? DU's North Campus turned into fortress</h2>
+              <p><strong>Written By:</strong> Manoj Verma, HT | <strong>Published:</strong> September 18, 2025 – 10:00 AM IST</p>
+              <hr>
+             
+              <p>Delhi University’s North Campus resembles a high-stakes political battleground at present. The Delhi University Students’ Union (DUSU) elections are scheduled for September 18, and the nomination process kicked off on Wednesday. But present, on campus, were not just students but also 175 plus security personnel — including Delhi Police and paramilitary forces — deployed at various key points across the varsity.</p>
+              <p>Such high vigilance, during a students' election season, is probably arranged for the first time especially during the nomination and campaigning days. On barricaded streets, police officers stood at every corner and patrolled with tactical precision to maintain law and order. Inside the Faculty of Law, the campaign rallies unfolded under the watchful gaze of the authority.</p>
+              <p>Raj, a final-year student of Kirori Mal College, said, “I didn’t expect to file my nomination under such a strict atmosphere. In the previous two years, I’ve campaigned for other student leaders but never expected to fight the elections in such a tense vibe.”</p>
+              <p>Diya Mishra, a final-year BA (Prog) student from Ramjas College said, “I have not seen these many police officers on campus during DUSU elections ever before! This hardly feels like student elections, and has the full-fledged vibe of some political state elections.”</p>
+              <p>Informing about the security arrangements in North Campus, Devendra Singh Oberoi, SHO Maurice Nagar, said, “This year we have received specific guidelines from the High Court against defacement and damage and overall conduct during the elections. We are following all those guidelines of law.”</p>
+              <p>There are around 60 police personnel deployed from Maurice Nagar Police Station (40% lady officers), 105 from the paramilitary primarily at the Proctor’s Office, DUSU office, VC’s office and the Arts Faculty. If any fines or arrests have to be made, it would only be after a case is registered and with due enquiry.</p>
+
+              <p><a href="homepage.html">← Back to Home</a></p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+
+    <!-- Footer -->
+    <tr bgcolor="#0d47a1">
+      <td colspan="2" align="center">
+        <p style="color:white;">
+          <a href="homepage.html" style="color:white;">Home</a> |
+          <a href="india section.html" style="color:white;">Privacy</a> |
+          <a href="election.html" style="color:white;">Terms of service</a>
+        </p>
+        <p style="color:white;">© 2025 FastTrack News.</p>
+        <p style="color:white;">Created and maintained by Yash. FastTrack is not responsible for the content of external sites.</p>
+      </td>
+    </tr>
+
+  </table>
+
+</body>
+</html>

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bihar Phase 1 Nominations Close — FastTrack</title>
+</head>
+<body>
+
+  <table width="100%" border="0" cellpadding="10" cellspacing="0" align="center">
+    <!-- Header -->
+    <tr bgcolor="#0d47a1">
+      <td colspan="2" align="center">
+        <h1 style="color:white;">FastTrack News</h1>
+        <p style="color:white;">Your fastest source for breaking headlines</p>
+        <p style="color:white;">Trusted. Timely. Transparent.</p>
+      </td>
+    </tr>
+
+    <!-- Marquee -->
+    <tr bgcolor="#1565c0">
+      <td colspan="2" align="center">
+        <marquee behavior="scroll" direction="left" style="color:white;">
+          WELCOME TO FASTTRACK — YOUR TRUSTED SOURCE FOR NEWS — STAY INFORMED —
+        </marquee>
+      </td>
+    </tr>
+
+    <!-- Navigation + Separator Line -->
+    <tr>
+      <td colspan="2" align="center">
+        <div style="line-height:1.4;">
+          <a href="homepage.html">Home</a> |
+          <a href="india section.html">Privacy</a> |
+          <a href="election.html">Terms Of Services</a> |
+          <a href="aboutus.html">About Us</a>
+          <br>
+          <hr style="width:60%; margin-top:4px; margin-bottom:0;">
+        </div>
+      </td>
+    </tr>
+
+    <!-- Article Content -->
+    <tr>
+      <td colspan="2" align="center">
+        <table width="65%" border="0" cellpadding="10" cellspacing="0" align="center">
+          <tr>
+            <td align="left">
+              <h2>Bihar Phase 1 Nominations Close, But INDIA Bloc Discord Persists</h2>
+              <p><strong>Written By:</strong> Rishabh Sinha | <strong>Published:</strong> October 18, 2025 – 11:30 AM IST</p>
+              <hr>
+              <img src="bihar phase1.jpg" alt="Bihar nomination rally scene" width="100%" style="max-width:700px; border-radius:8px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.1); border:1px solid #ccc;">
+              <p>Patna: The nomination process for the first phase of the Bihar Assembly elections concluded on Friday, with 1,698 candidates filing papers for 121 constituencies set to vote on November 6. Despite the deadline, the Opposition’s INDIA bloc remains entangled in unresolved seat-sharing disputes.</p>
+              <p>Throughout the day, political leaders crisscrossed the state to submit nominations, following a late-night breakthrough on Thursday that hinted at a tentative alliance agreement. On the final day alone, 1,068 nominations were filed, including those by Khesari Lal Yadav, Maithili Thakur, and ministers Mangal Pandey, Prem Kumar, and Renu Devi. In several constituencies, multiple INDIA bloc candidates filed nominations, reflecting ongoing confusion.</p>
+              <p>In contrast, the National Democratic Alliance (NDA) experienced a relatively smoother process, having finalized its seat-sharing arrangement a week earlier. Top BJP leaders, including three chief ministers and three Union ministers, participated in nomination rallies across the state.</p>
+              <p>Union Minister Sarbananda Sonowal expressed confidence in the NDA’s prospects: “The people of Bihar have decided that the NDA government is essential for peace, development, and progress. I believe our alliance will secure close to 200 seats.”</p>
+              <p>While the INDIA bloc’s seat distribution remains unclear, some announcements were made. Mukesh Sahani of the Vikassheel Insaan Party (VIP) declared his party would contest 15 seats. The Congress named candidates for 48 seats and filed nominations for 40 more. The Rashtriya Janata Dal (RJD) submitted papers for 40 seats, while Left parties filed for six.</p>
+              <p>Congress leaders dismissed concerns about coordination issues. “Everything is running smoothly. There is no problem,” said Bhupesh Baghel, former Chhattisgarh CM.</p>
+              <p>The final picture will emerge by October 20, the last date for withdrawal of nominations. Phase 2 voting is scheduled for November 11, with results to be announced on November 14.</p>
+              <p><a href="homepage.html">← Back to Home</a></p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+
+    <!-- Footer -->
+    <tr bgcolor="#0d47a1">
+      <td colspan="2" align="center">
+        <p style="color:white;">
+          <a href="homepage.html" style="color:white;">Home</a> |
+          <a href="india section.html" style="color:white;">Privacy</a> |
+          <a href="election.html" style="color:white;">Terms of service</a>
+        </p>
+        <p style="color:white;">© 2025 FastTrack News.</p>
+        <p style="color:white;">Created and maintained by Yash. FastTrack is not responsible for the content of external sites.</p>
+      </td>
+    </tr>
+
+  </table>
+
+</body>
+</html>

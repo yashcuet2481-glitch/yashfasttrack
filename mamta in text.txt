@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Mamata Banerjee on Durgapur Gangrape — FastTrack</title>
+</head>
+<body>
+
+  <table width="100%" border="0" cellpadding="10" cellspacing="0" align="center">
+    <!-- Header -->
+    <tr bgcolor="#0d47a1">
+      <td colspan="2" align="center">
+        <h1 style="color:white;">FastTrack News</h1>
+        <p style="color:white;">Your fastest source for breaking headlines</p>
+        <p style="color:white;">Trusted. Timely. Transparent.</p>
+      </td>
+    </tr>
+
+    <!-- Marquee -->
+    <tr bgcolor="#1565c0">
+      <td colspan="2" align="center">
+        <marquee behavior="scroll" direction="left" style="color:white;">
+          WELCOME TO FASTTRACK — YOUR TRUSTED SOURCE FOR NEWS — STAY INFORMED —
+        </marquee>
+      </td>
+    </tr>
+
+    <!-- Navigation -->
+    <tr>
+      <td colspan="2" align="center">
+        <a href="homepage.html">Home</a> |
+        <a href="india section.html">Privacy</a> |
+        <a href="election.html">Terms Of Services</a> |
+        <a href="aboutus.html">About Us</a>
+      </td>
+    </tr>
+
+    <!-- Article Content Centered with Left Alignment -->
+    <tr>
+      <td colspan="2" align="center">
+        <table width="65%" border="0" cellpadding="10" cellspacing="0" align="center">
+          <tr>
+            <td align="left">
+              <h2>Mamata Banerjee on Durgapur Gangrape: Politicians Must Be Sensitive</h2>
+              <p><strong>Written By:</strong> Anuradha Vellat | <strong>Published:</strong> October 17, 2025 – 9:09 PM IST</p>
+              <hr>
+              <img src="mamtaban.jpg" alt="Mamata Banerjee speaking at press conference" width="600">
+              <p>Kerala’s longest-serving chief minister, EK Nayanar, once remarked that rape in the US was as common as drinking tea. Though controversial, many echoed his sentiment, viewing American culture as “uncultured” due to women’s clothing choices and nighttime outings. This reflects a deeper issue: a narrow definition of culture used to police women.</p>
+              <p>Days after a 23-year-old MBBS student was gang-raped in Durgapur, West Bengal CM Mamata Banerjee commented that the survivor should not have been out at night. While possibly rooted in concern, such statements often shift blame onto victims. This is especially jarring coming from a leader known for her fierce political legacy.</p>
+              <p>Other politicians have made similarly troubling remarks. Mulayam Singh Yadav dismissed rape as “boys will be boys,” and Om Prakash Chautala suggested lowering the legal marriage age to curb sexual violence. These comments reveal how deeply ingrained patriarchal norms are in political discourse.</p>
+              <p>Politicians often speak on gender violence out of obligation, not conviction. Their stance on women’s issues influences how they connect with young voters—who make up over 22% of India’s electorate. While not all youth are progressive, they deserve leaders who speak with empathy and awareness.</p>
+              <p>As an editorial in Hindustan Times noted, politicians mirror the social customs around them. Many believe that offering women financial aid or gas connections is enough. Yet, issues like safety and freedom remain absent from campaign agendas.</p>
+              <p>Patriarchy affects all genders, teaching obedience and reinforcing inequality. It tells girls to be quiet, women to return home early, and mothers to raise sons who value homemaker wives. Even a peaceful night walk becomes a luxury for most women.</p>
+              <p>For many, the dream of walking freely at night is as powerful as the fight for equal pay. It’s time our leaders—representatives of the people—truly stand with women, not just in policy but in perspective.</p>
+              <p>This moment calls for reflection, not rhetoric. Sensitivity must replace stereotypes, and accountability must replace apathy. If our leaders cannot speak with compassion, how can they legislate with conviction?</p>
+            
+              <p><a href="homepage.html">← Back to Home</a></p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+
+    <!-- Footer -->
+    <tr bgcolor="#0d47a1">
+      <td colspan="2" align="center">
+        <p style="color:white;">
+          <a href="homepage.html" style="color:white;">Home</a> |
+          <a href="india section.html" style="color:white;">Privacy</a> |
+          <a href="election.html" style="color:white;">Terms of service</a>
+        </p>
+        <p style="color:white;">© 2025 FastTrack News.</p>
+        <p style="color:white;">Created and maintained by Yash. FastTrack is not responsible for the content of external sites.</p>
+      </td>
+    </tr>
+
+  </table>
+
+</body>
+</html>

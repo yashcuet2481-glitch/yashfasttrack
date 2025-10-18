@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>BJP Releases First List for Bihar Election 2025 — FastTrack</title>
+</head>
+<body>
+
+  <table width="100%" border="0" cellpadding="10" cellspacing="0" align="center">
+    <!-- Header -->
+    <tr bgcolor="#0d47a1">
+      <td colspan="2" align="center">
+        <h1 style="color:white;">FastTrack News</h1>
+        <p style="color:white;">Your fastest source for breaking headlines</p>
+        <p style="color:white;">Trusted. Timely. Transparent.</p>
+      </td>
+    </tr>
+
+    <!-- Marquee -->
+    <tr bgcolor="#1565c0">
+      <td colspan="2" align="center">
+        <marquee behavior="scroll" direction="left" style="color:white;">
+          WELCOME TO FASTTRACK — YOUR TRUSTED SOURCE FOR NEWS — STAY INFORMED —
+        </marquee>
+      </td>
+    </tr>
+
+    <!-- Navigation + Separator Line -->
+    <tr>
+      <td colspan="2" align="center">
+        <div style="line-height:1.4;">
+          <a href="homepage.html">Home</a> |
+          <a href="india section.html">Privacy</a> |
+          <a href="election.html">Terms Of Services</a> |
+          <a href="aboutus.html">About Us</a>
+          <br>
+          <hr style="width:60%; margin-top:4px; margin-bottom:0;">
+        </div>
+      </td>
+    </tr>
+
+    <!-- Article Content -->
+    <tr>
+      <td colspan="2" align="center">
+        <table width="65%" border="0" cellpadding="10" cellspacing="0" align="center">
+          <tr>
+            <td align="left">
+              <h2>Bihar Assembly Election 2025: BJP Releases First List of Candidates</h2>
+              <p><strong>Written By:</strong> Saurabh Sinha | <strong>Published:</strong> October 14, 2025 – 3:35 PM IST</p>
+              <hr>
+              <img src="bihar election.jpeg" alt="BJP leaders announcing Bihar candidate list" width="100%" style="max-width:700px; border-radius:8px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.1); border:1px solid #ccc;">
+              <p>The Bharatiya Janata Party (BJP) has unveiled its initial list of candidates for the upcoming Bihar assembly elections, naming 71 contenders out of the 101 seats it plans to contest. Among the prominent names are outgoing Deputy Chief Ministers Samrat Choudhary and Vijay Kumar Sinha, who will be contesting from Tarapur and Lakhisarai constituencies, respectively.</p>
+              <p>The 243-member Bihar assembly will undergo elections in two phases—on November 6 and 11, with results scheduled for November 14.</p>
+              <p>Following extensive discussions, the National Democratic Alliance (NDA) finalized its seat-sharing arrangement. Both BJP and Janata Dal (United) will contest 101 seats each, while Lok Janshakti Party (Ram Vilas) has been allocated 29 seats. Smaller allies—Rashtriya Lok Morcha (RLM) and Hindustani Awam Morcha (Secular)—will each contest six seats.</p>
+              <p>This marks a shift from the 2020 elections, where JD(U) contested 115 seats and BJP 110. The current arrangement reflects a more balanced distribution between the two major NDA partners.</p>
+              <p>Union Minister Dharmendra Pradhan confirmed the agreement on X, stating that the seat-sharing was finalized in a cordial atmosphere and that NDA allies are united in their goal to retain power in Bihar.</p>
+              <p>The decision follows intense negotiations, particularly with Chirag Paswan’s LJP(RV) and Jitan Ram Manjhi’s HAM(S), both of whom had sought a larger share. Manjhi had pushed for 15 seats to secure recognition from the Election Commission, while Paswan’s camp had aimed for 45–54 seats but was reportedly offered 20–25.</p>
+              <p>Meanwhile, the opposition Mahagathbandhan, comprising the RJD, Congress, and other parties, has yet to announce its seat-sharing strategy.</p>
+              <p>In the 2020 elections, the NDA’s formula included BJP (110), JD(U) (115), HAM(S) (7), and VIP (11), while the LJP contested 135 seats independently. Notably, this is the first time JD(U), led by Nitish Kumar, will contest fewer seats than the BJP.</p>
+              <p><a href="homepage.html">← Back to Home</a></p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+
+    <!-- Footer -->
+    <tr bgcolor="#0d47a1">
+      <td colspan="2" align="center">
+        <p style="color:white;">
+          <a href="homepage.html" style="color:white;">Home</a> |
+          <a href="india section.html" style="color:white;">Privacy</a> |
+          <a href="election.html" style="color:white;">Terms of service</a>
+        </p>
+        <p style="color:white;">© 2025 FastTrack News.</p>
+        <p style="color:white;">Created and maintained by Yash. FastTrack is not responsible for the content of external sites.</p>
+      </td>
+    </tr>
+
+  </table>
+
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>India News — FastTrack</title>
+</head>
+<body style="margin:0; font-family:'Segoe UI', sans-serif; background:linear-gradient(to right, #e3f2fd, #f0f4f8); color:#333;">
+
+  <header style="background:#1976d2; color:white; text-align:center; padding:20px 10px; font-family:'Times New Roman', serif;">
+    <h1 style="margin:0; font-size:2.2em;">FastTrack News</h1>
+    <p style="margin:5px 0 0; font-size:1em;">Category: Privacy Policy</p>
+  </header>
+
+  <nav style="background:#2196f3; display:flex; justify-content:center; flex-wrap:wrap; padding:8px; font-size:0.85em;">
+    <a href="homepage.html" style="color:white; margin:0 10px; text-decoration:none; font-weight:bold;">Home</a>
+    <a href="india section.html" style="color:white; margin:0 10px; text-decoration:none; font-weight:bold;">Privacy</a>
+    <a href="election.html" style="color:white; margin:0 10px; text-decoration:none; font-weight:bold;">Terms Of Services</a>
+    <a href="aboutus.html" style="color:white; margin:0 10px; text-decoration:none; font-weight:bold;">About Us</a>
+  </nav>
+
+  <!-- Privacy Policy Section -->
+  <div style="background:#ffffffcc; padding:25px; margin:40px auto; max-width:900px; border-radius:12px; box-shadow:0 0 10px rgba(0,0,0,0.08);">
+    <h2 style="background:linear-gradient(to right, #1976d2, #42a5f5); color:white; font-size:1.8em; padding:12px 20px; margin-bottom:30px; text-align:center; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.1);">
+      🔒 Privacy Policy
+    </h2>
+
+    <p style="font-size:1em; line-height:1.7; color:#444;">
+      FastTrack News is committed to protecting your privacy. This policy outlines how we collect, use, and safeguard your information when you visit our site.
+    </p>
+
+    <ul style="padding-left:20px; font-size:1em; line-height:1.7; color:#444;">
+      <li><strong>Information Collection:</strong> We may collect non-personal data such as browser type, device info, and visit duration for analytics purposes.</li>
+      <li><strong>Cookies:</strong> Our site may use cookies to enhance user experience. You can disable cookies in your browser settings.</li>
+      <li><strong>Third-Party Links:</strong> FastTrack News may link to external sites. We are not responsible for their privacy practices.</li>
+      <li><strong>Data Usage:</strong> Any data collected is used solely to improve site performance and user experience. We do not sell or share personal data.</li>
+      <li><strong>Security:</strong> We implement basic security measures to protect site data, but cannot guarantee absolute protection.</li>
+      <li><strong>Policy Updates:</strong> This privacy policy may be updated periodically. Continued use of the site implies acceptance of changes.</li>
+    </ul>
+
+    <p style="font-size:1em; line-height:1.7; color:#444;">
+      For questions or concerns regarding this policy, please contact us through the About Us page.
+    </p>
+  </div>
+
+</body>
+</html>

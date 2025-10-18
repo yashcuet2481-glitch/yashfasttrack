@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Rahul Gandhi Seeks Justice in IPS Officer's Death — FastTrack</title>
+</head>
+<body>
+
+  <table width="100%" border="0" cellpadding="10" cellspacing="0" align="center">
+    <!-- Header -->
+    <tr bgcolor="#0d47a1">
+      <td colspan="2" align="center">
+        <h1 style="color:white;">FastTrack News</h1>
+        <p style="color:white;">Your fastest source for breaking headlines</p>
+        <p style="color:white;">Trusted. Timely. Transparent.</p>
+      </td>
+    </tr>
+
+    <!-- Marquee -->
+    <tr bgcolor="#1565c0">
+      <td colspan="2" align="center">
+        <marquee behavior="scroll" direction="left" style="color:white;">
+          WELCOME TO FASTTRACK — YOUR TRUSTED SOURCE FOR NEWS — STAY INFORMED —
+        </marquee>
+      </td>
+    </tr>
+
+    <!-- Navigation + Separator Line -->
+    <tr>
+      <td colspan="2" align="center">
+        <div style="line-height:1.4;">
+          <a href="homepage.html">Home</a> |
+          <a href="india section.html">Privacy</a> |
+          <a href="election.html">Terms Of Services</a> |
+          <a href="aboutus.html">About Us</a>
+          <br>
+          <hr style="width:60%; margin-top:4px; margin-bottom:0;">
+        </div>
+      </td>
+    </tr>
+
+    <!-- Article Content -->
+    <tr>
+      <td colspan="2" align="center">
+        <table width="65%" border="0" cellpadding="10" cellspacing="0" align="center">
+          <tr>
+            <td align="left">
+              <h2>Rahul Gandhi Demands Justice in IPS Officer Y Puran Kumar’s Death</h2>
+              <p><strong>Written By:</strong> Hindustan Times Staff | <strong>Published:</strong> October 14, 2025 – 12:56 PM IST</p>
+              <hr>
+              <img src="rahuljpg.jpg" alt="Rahul Gandhi meets IPS officer's family" width="100%" style="max-width:700px; border-radius:8px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.1); border:1px solid #ccc;">
+              <p>Congress leader Rahul Gandhi on Tuesday met the family of IPS officer Y Puran Kumar in Chandigarh, days after the officer allegedly died by suicide at his residence in Haryana. The incident has triggered widespread outrage, drawing attention to alleged caste-based discrimination within the police and bureaucratic systems.</p>
+              <p>Following the meeting, Gandhi urged Haryana Chief Minister Nayab Singh Saini and Prime Minister Narendra Modi to take immediate action. He stated that the tragedy sends a damaging message to Dalit communities — that even success does not shield them from systemic oppression. “This is not just about the dignity of one family, but about the dignity of all Dalits,” he said.</p>
+              <p>Gandhi also criticized the Haryana government for failing to uphold its promise of a transparent investigation. He claimed that the late officer’s daughters are under immense pressure and called on authorities to honor their commitment and allow the funeral to proceed respectfully.</p>
+              <p><strong>📄 Allegations and Legal Demands</strong></p>
+              <p>Y Puran Kumar passed away on October 7, reportedly from a self-inflicted gunshot wound. According to his wife, IAS officer Amneet Puran Kumar, he left behind an eight-page note naming senior officials — including Haryana Director General of Police Shatrujeet Kapur and Rohtak Superintendent of Police Narendra Bijarniya — and accusing them of caste-based harassment, mental torture, and public humiliation.</p>
+              <p>Amneet has filed a formal complaint seeking an FIR against the named officials and demanded that the case be investigated under appropriate sections of the SC/ST (Prevention of Atrocities) Act. The postmortem of Y Puran Kumar remains pending, as the family has withheld consent until their demands are addressed.</p>
+              <p><a href="homepage.html">← Back to Home</a></p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+
+    <!-- Footer -->
+    <tr bgcolor="#0d47a1">
+      <td colspan="2" align="center">
+        <p style="color:white;">
+          <a href="homepage.html" style="color:white;">Home</a> |
+          <a href="india section.html" style="color:white;">Privacy</a> |
+          <a href="election.html" style="color:white;">Terms of service</a>
+        </p>
+        <p style="color:white;">© 2025 FastTrack News.</p>
+        <p style="color:white;">Created and maintained by Yash. FastTrack is not responsible for the content of external sites.</p>
+      </td>
+    </tr>
+
+  </table>
+
+</body>
+</html>

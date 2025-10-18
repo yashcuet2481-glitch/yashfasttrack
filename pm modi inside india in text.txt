@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Modi's Shoutout to Trump & Netanyahu — FastTrack</title>
+</head>
+<body>
+
+  <table width="100%" border="0" cellpadding="10" cellspacing="0" align="center">
+    <!-- Header -->
+    <tr bgcolor="#0d47a1">
+      <td colspan="2" align="center">
+        <h1 style="color:white;">FastTrack News</h1>
+        <p style="color:white;">Your fastest source for breaking headlines</p>
+        <p style="color:white;">Trusted. Timely. Transparent.</p>
+      </td>
+    </tr>
+
+    <!-- Marquee -->
+    <tr bgcolor="#1565c0">
+      <td colspan="2" align="center">
+        <marquee behavior="scroll" direction="left" style="color:white;">
+          WELCOME TO FASTTRACK — YOUR TRUSTED SOURCE FOR NEWS — STAY INFORMED —
+        </marquee>
+      </td>
+    </tr>
+
+    <!-- Navigation + Separator Line -->
+    <tr>
+      <td colspan="2" align="center">
+        <div style="line-height:1.4;">
+          <a href="homepage.html">Home</a> |
+          <a href="india section.html">Privacy</a> |
+          <a href="election.html">Terms Of Services</a> |
+          <a href="aboutus.html">About Us</a>
+          <br>
+          <hr style="width:60%; margin-top:4px; margin-bottom:0;">
+        </div>
+      </td>
+    </tr>
+
+    <!-- Article Content -->
+    <tr>
+      <td colspan="2" align="center">
+        <table width="65%" border="0" cellpadding="10" cellspacing="0" align="center">
+          <tr>
+            <td align="left">
+              <h2>Modi's shoutout to Trump, Netanyahu after Israeli hostages freed: ‘Unwavering’</h2>
+              <p><strong>Written By:</strong> Rishabh Sinha | <strong>Published:</strong> October 13, 2025 – 7:24 PM IST</p>
+              <hr>
+              <img src="PM MODI MONDAY.jpg" alt="Modi, Trump, Netanyahu" width="100%" style="max-width:700px; border-radius:8px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.1); border:1px solid #ccc;">
+              <p>Prime Minister Narendra Modi on Sunday welcomed the release of Israeli hostages from Gaza and lauded US President Donald Trump's peace effort, describing it as “unwavering,” along with the “strong resolve” of Israeli PM Benjamin Netanyahu.</p>
+              <p>“We welcome the release of all hostages after over two years of captivity. Their freedom stands as a tribute to the courage of their families, the unwavering peace efforts of President Trump and the strong resolve of Prime Minister Netanyahu. We support President Trump’s sincere efforts to bring peace to the region,” PM Modi wrote on X.</p>
+              <img src="modi tweet.jpg" alt="PM Modi's tweet screenshot" width="100%" style="max-width:700px; border-radius:8px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.1); border:1px solid #ccc;">
+              <p>Hamas released the remaining 20 Israeli hostages on Monday, potentially bringing an end to the fighting in Gaza that erupted after the group carried out a siege in southern Israel on October 7, 2023. That attack led to the deaths of 1,219 people, most of them civilians, and 251 hostages were taken to Gaza.</p>
+              <p>Donald Trump announced on October 9 that Israel and Hamas had reached an agreement on the 'first phase' of a plan to stop the fighting and release hostages and prisoners. The announcement followed days of talks held in the Egyptian resort city of Sharm al-Sheikh.</p>
+              <p>Trump hailed the resolution as an end to a "painful nightmare" in a speech to Israel's Parliament on Monday, after the last surviving hostages returned home and a group of Palestinian prisoners were released under the ceasefire deal he helped broker.</p>
+              <p>The US president's visit to Israel came ahead of a summit on Gaza in Egypt’s Sharm El-Sheikh. PM Modi will not attend the summit but will be represented by Minister of State for External Affairs Kirti Vardhan Singh.</p>
+              <p><a href="homepage.html">← Back to Home</a></p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+
+    <!-- Footer -->
+    <tr bgcolor="#0d47a1">
+      <td colspan="2" align="center">
+        <p style="color:white;">
+          <a href="homepage.html" style="color:white;">Home</a> |
+          <a href="india section.html" style="color:white;">Privacy</a> |
+          <a href="election.html" style="color:white;">Terms of service</a>
+        </p>
+        <p style="color:white;">© 2025 FastTrack News.</p>
+        <p style="color:white;">Created and maintained by Yash. FastTrack is not responsible for the content of external sites.</p>
+      </td>
+    </tr>
+
+  </table>
+
+</body>
+</html>

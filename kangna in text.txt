@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Kangana Ranaut on Political Life — FastTrack</title>
+</head>
+<body>
+
+  <table width="100%" border="0" cellpadding="10" cellspacing="0" align="center">
+    <!-- Header -->
+    <tr bgcolor="#0d47a1">
+      <td colspan="2" align="center">
+        <h1 style="color:white;">FastTrack News</h1>
+        <p style="color:white;">Your fastest source for breaking headlines</p>
+        <p style="color:white;">Trusted. Timely. Transparent.</p>
+      </td>
+    </tr>
+
+    <!-- Marquee -->
+    <tr bgcolor="#1565c0">
+      <td colspan="2" align="center">
+        <marquee behavior="scroll" direction="left" style="color:white;">
+          WELCOME TO FASTTRACK — YOUR TRUSTED SOURCE FOR NEWS — STAY INFORMED —
+        </marquee>
+      </td>
+    </tr>
+
+    <!-- Navigation + Separator Line -->
+    <tr>
+      <td colspan="2" align="center">
+        <div style="line-height:1.4;">
+          <a href="homepage.html">Home</a> |
+          <a href="india section.html">Privacy</a> |
+          <a href="election.html">Terms Of Services</a> |
+          <a href="aboutus.html">About Us</a>
+          <br>
+          <hr style="width:60%; margin-top:4px; margin-bottom:0;">
+        </div>
+      </td>
+    </tr>
+
+    <!-- Article Content -->
+    <tr>
+      <td colspan="2" align="center">
+        <table width="65%" border="0" cellpadding="10" cellspacing="0" align="center">
+          <tr>
+            <td align="left">
+              <h2>Kangana Ranaut Calls Politics an ‘Expensive Hobby’, Says MP Salary Isn’t Enough</h2>
+              <p><strong>Written By:</strong> Rishabh Sinha | <strong>Published:</strong> October 13, 2025 – 7:24 PM IST</p>
+              <hr>
+              <img src="kanganaranaut.jpg" alt="Kangana Ranaut as MP" width="100%" style="max-width:700px; border-radius:8px; margin-bottom:20px; box-shadow:0 2px 6px rgba(0,0,0,0.1); border:1px solid #ccc;">
+              <p>Actor-turned-politician Kangana Ranaut, now serving as Member of Parliament from Mandi, described her political journey as financially demanding—calling it “a very expensive hobby.”</p>
+              <p>“If you are an MP you can't have it as a profession... you need a job,” she said in an interview with Times Now. Ranaut explained that the salary of ₹50,000–₹60,000 left after deductions is insufficient to cover the costs of travel, staff, and constituency visits.</p>
+              <p>“If I have to go to my constituency with some representation, some PAs from here, some three-four cars, the expenses are in lakhs because one place from other is 300-400 kms minimum,” she added.</p>
+              <p>She cited examples of other MPs who maintain parallel careers, such as lawyers and business owners, and mentioned that even artists like Javed Akhtar continued their professional work while in politics.</p>
+              <p>Speaking on a podcast on the YouTube channel Atman in Ravi (AIR), Ranaut said she’s still adjusting to the role and wouldn’t say she’s enjoying it yet. “It’s more like social service,” she said, noting that politics was never her background.</p>
+              <p>She also shared how constituents often approach her with local issues like broken drains and roads, which are typically state government matters. “They say, ‘You have money, you use your own money,’” she remarked.</p>
+              <p>Despite the challenges, Ranaut continues to engage with her constituency and learn the ropes of her new role in public service.</p>
+              <p><a href="homepage.html">← Back to Home</a></p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+
+    <!-- Footer -->
+    <tr bgcolor="#0d47a1">
+      <td colspan="2" align="center">
+        <p style="color:white;">
+          <a href="homepage.html" style="color:white;">Home</a> |
+          <a href="india section.html" style="color:white;">Privacy</a> |
+          <a href="election.html" style="color:white;">Terms of service</a>
+        </p>
+        <p style="color:white;">© 2025 FastTrack News.</p>
+        <p style="color:white;">Created and maintained by Yash. FastTrack is not responsible for the content of external sites.</p>
+      </td>
+    </tr>
+
+  </table>
+
+</body>
+</html>
